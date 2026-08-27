@@ -8,7 +8,7 @@ FY2018–FY2020.
 The goal: turn a raw chart-of-accounts + GL extract into the five statements a finance
 team actually reads, with drill-down by year, region, country and account class.
 
-![Balance Sheet](images/01-balance-sheet.png)
+![Balance Sheet](images01-balancesheet.png)
 
 ---
 
@@ -57,7 +57,7 @@ hierarchical matrix (Class → Subclass → Account) across 2018–2020, and a t
 balance sheet value by account. Filtered by a `Date` slicer.
 
 ### 2. Income Statement
-![Income Statement](images/02-income-statement.png)
+![Income Statement](images02-incomestatement.png)
 
 Revenue, Gross Profit and Net Profit cards; a funnel of expense categories; an operating
 expenses donut (utilities, advertising, office supplies, telephone, professional services,
@@ -66,21 +66,21 @@ three-year income statement matrix broken into Interest & Tax, Non-operating and
 Operating accounts. Sliceable by country.
 
 ### 3. Sales Profile
-![Sales Profile](images/03-sales-profile.png)
+![Sales Profile](images03-salesprofile.png)
 
 Sales FTP, Gross Profit and Sales TTD cards, a year-on-year sales revenue column chart
 (2018 → 2020), a subclass contribution donut (sales ≈ 89.67% of total), a gauge tracking
 progress against a £56.67M target, and a territory map for regional performance.
 
 ### 4. Profitability — GP, EBITDA, OP, EBIT, NP
-![Profitability](images/04-profitability.png)
+![Profitability](images04profitability.png)
 
 Four KPI-with-trend visuals (EBITDA, Gross Profit, Operating Profit, EBIT) each showing
 the 2018/2019/2020 trajectory, plus a Net Income by quarter combo chart — Q4 is
 materially the strongest quarter.
 
 ### 5. Financial Ratios
-![Financial Ratios](images/05-financial-ratios.png)
+![Financial Ratios](images05financialratios.png)
 
 Current Ratio, Quick Ratio, Asset Turnover and Gearing Ratio cards; a stacked ratio bar
 by year; a ratio matrix by year; a region slicer (Asia / Europe / North America); and a
